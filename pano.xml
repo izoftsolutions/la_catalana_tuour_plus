@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.10" start="node1" apprev="18007">
+  <panorama id="node1">
+    <input levelingroll="0" levelingpitch="0" height="1520" leveltilesize="510" overlap="1" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520">
+      <level predecode="0" height="1520" width="1520" preload="0"/>
+      <level predecode="0" height="760" width="760" preload="0"/>
+      <level predecode="1" height="380" width="380" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-102.3" fovmode="0">
+      <start pan="0" fov="100" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="270" pan="360" fov="120" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node1" heading="-102.3" author="" altitude="3.50" tags="jpg" datetime="3/28/2021 12:05 PM" latitude="25.93997441" info="" source="" comment="" longitude="-80.28100015" description="" title="IMG_20210328_120552_00_109.insp" copyright="" customnodeid="" streetviewlink="https://www.google.com/maps/@25.9399744,-80.2810001,3a,75y,257.7h/data=!3m4!1e1!3m2!1sAF1QipM1X9rCbqWKUUSK5XE3tZF0mBaqn5mrVqFcNrS4!2e10"/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label textalpha="1" bordercolor="0x000000" wordwrap="1" border="1" borderradius="1" height="20" textcolor="0x000000" backgroundalpha="1" background="1" borderalpha="1" enabled="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot distance="3.78409" id="Point01" pan="-95.75" description="" title="IMG_20210328_120638_00_110.insp" skinid="ht_node" tilt="-10.91" url="{node2}" target="-115.5/-7.6/100.0"/>
+      <hotspot distance="4.71631" id="Point02" pan="-47.95" description="" title="Salida" skinid="ht_node" tilt="-7.4" url="{node9}" target="153.3/-24.0/100.0"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" softedge="0" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" zoomout="0" blendcolor="0x000000" zoomafterinfov="90" zoomspeed="2" enabled="1" zoomfov="20" zoomin="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" rubberband="0" lockedkeyboardzoom="0" contextfullscreen="1" hideabout="0" speedwheel="1" lockedwheel="0" invertwheel="0" lockedkeyboard="0" contextprojections="0" sensitivity="8" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelingroll="0" levelingpitch="0" height="1520" leveltilesize="510" overlap="1" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520">
+      <level predecode="0" height="1520" width="1520" preload="0"/>
+      <level predecode="0" height="760" width="760" preload="0"/>
+      <level predecode="1" height="380" width="380" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-116.13" fovmode="0">
+      <start pan="0" fov="100" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="270" pan="360" fov="120" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node2" heading="-116.13" author="" altitude="2.90" tags="jpg" datetime="3/28/2021 12:06 PM" latitude="25.94000844" info="" source="" comment="" longitude="-80.28099984" description="" title="IMG_20210328_120638_00_110.insp" copyright="" customnodeid="" streetviewlink="https://www.google.com/maps/@25.9400084,-80.2809998,3a,75y,243.87h/data=!3m4!1e1!3m2!1sAF1QipMJnfrlw2Co4fBirqA5WTdUQ_WPqGYtKv938OvZ!2e10"/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label textalpha="1" bordercolor="0x000000" wordwrap="1" border="1" borderradius="1" height="20" textcolor="0x000000" backgroundalpha="1" background="1" borderalpha="1" enabled="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot distance="2.98232" id="Point01" pan="-110.9" description="" title="IMG_20210328_120719_00_111.insp" skinid="ht_node" tilt="-6.17" url="{node3}" target="-116.9/-11.5/100.0"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" softedge="0" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" zoomout="0" blendcolor="0x000000" zoomafterinfov="90" zoomspeed="2" enabled="1" zoomfov="20" zoomin="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" rubberband="0" lockedkeyboardzoom="0" contextfullscreen="1" hideabout="0" speedwheel="1" lockedwheel="0" invertwheel="0" lockedkeyboard="0" contextprojections="0" sensitivity="8" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelingroll="0" levelingpitch="0" height="1520" leveltilesize="510" overlap="1" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520">
+      <level predecode="0" height="1520" width="1520" preload="0"/>
+      <level predecode="0" height="760" width="760" preload="0"/>
+      <level predecode="1" height="380" width="380" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-102.3" fovmode="0">
+      <start pan="-28.7" fov="100" tilt="-2.72" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="270" pan="360" fov="120" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node3" heading="-102.3" author="" altitude="2.90" tags="jpg" datetime="3/28/2021 12:07 PM" latitude="25.94003524" info="" source="" comment="" longitude="-80.28100101" description="" title="IMG_20210328_120719_00_111.insp" copyright="" customnodeid="" streetviewlink="https://www.google.com/maps/@25.9400352,-80.281001,3a,75y,286.4h/data=!3m4!1e1!3m2!1sAF1QipOCwYFBIWCLBYXo4XWGcL7sUzAqohsG10bZlDOz!2e10"/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label textalpha="1" bordercolor="0x000000" wordwrap="1" border="1" borderradius="1" height="20" textcolor="0x000000" backgroundalpha="1" background="1" borderalpha="1" enabled="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot distance="4.87235" id="Point01" pan="-51.65" description="" title="Entrada" skinid="ht_node" tilt="-9.2" url="{node7}" target="175.9/-11.0/100.0"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" softedge="0" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" zoomout="0" blendcolor="0x000000" zoomafterinfov="90" zoomspeed="2" enabled="1" zoomfov="20" zoomin="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" rubberband="0" lockedkeyboardzoom="0" contextfullscreen="1" hideabout="0" speedwheel="1" lockedwheel="0" invertwheel="0" lockedkeyboard="0" contextprojections="0" sensitivity="8" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelingroll="0" levelingpitch="0" height="1520" leveltilesize="510" overlap="1" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520">
+      <level predecode="0" height="1520" width="1520" preload="0"/>
+      <level predecode="0" height="760" width="760" preload="0"/>
+      <level predecode="1" height="380" width="380" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="83.64" fovmode="0">
+      <start pan="175.07" fov="100" tilt="-13.05" projection="4"/>
+      <flyin pan="174.87" fov="100" tilt="-12.8" projection="4"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="270" pan="360" fov="120" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node7" heading="83.64" author="" altitude="2.80" tags="jpg" datetime="3/28/2021 12:15 PM" latitude="25.94002464" info="" source="" comment="" longitude="-80.28104829" description="" title="IMG_20210328_121557_00_115.insp" copyright="" customnodeid="" streetviewlink="https://www.google.com/maps/@25.9400246,-80.2810483,3a,75y,268.57h/data=!3m4!1e1!3m2!1sAF1QipO1Sd1pqCVXjkcjBElRb3Bnlsw8yd4iW1_QzNBs!2e10"/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label textalpha="1" bordercolor="0x000000" wordwrap="1" border="1" borderradius="1" height="20" textcolor="0x000000" backgroundalpha="1" background="1" borderalpha="1" enabled="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot distance="4.70112" id="Point01" pan="-277.67" description="" title="Go East" skinid="ht_node" tilt="-1.33" url="{node6}" target="175.9/-4.9/100.0"/>
+      <hotspot distance="1.89586" id="Point02" pan="-94.91" description="" title="Go Center" skinid="ht_node" tilt="-19.75" url="{node8}" target="-96.7/-12.7/100.0"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" softedge="0" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" zoomout="0" blendcolor="0x000000" zoomafterinfov="90" zoomspeed="2" enabled="1" zoomfov="20" zoomin="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" rubberband="0" lockedkeyboardzoom="0" contextfullscreen="1" hideabout="0" speedwheel="1" lockedwheel="0" invertwheel="0" lockedkeyboard="0" contextprojections="0" sensitivity="8" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelingroll="0" levelingpitch="0" height="1520" leveltilesize="510" overlap="1" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520">
+      <level predecode="0" height="1520" width="1520" preload="0"/>
+      <level predecode="0" height="760" width="760" preload="0"/>
+      <level predecode="1" height="380" width="380" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="83.9" fovmode="0">
+      <start pan="172.78" fov="100" tilt="-25.38" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="270" pan="360" fov="120" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node8" heading="83.9" author="" altitude="3.00" tags="jpg" datetime="3/28/2021 12:16 PM" latitude="25.94000776" info="" source="" comment="" longitude="-80.28105096" description="" title="IMG_20210328_121648_00_116.insp" copyright="" customnodeid="" streetviewlink="https://www.google.com/maps/@25.9400078,-80.281051,3a,75y,271.12h/data=!3m4!1e1!3m2!1sAF1QipPLKyNXa0Wbd3PsrCFozHkRfu4aZBSUyk_O0N6Q!2e10"/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label textalpha="1" bordercolor="0x000000" wordwrap="1" border="1" borderradius="1" height="20" textcolor="0x000000" backgroundalpha="1" background="1" borderalpha="1" enabled="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot distance="3.1393" id="Point01" pan="-96.54" description="" title="Go west" skinid="ht_node" tilt="-23.41" url="{node9}" target="-102.0/-8.4/100.0"/>
+      <hotspot distance="1.89586" id="Point02" pan="-282.74" description="" title="Go Entrance" skinid="ht_node" tilt="-20.94" url="{node7}" target="86.6/-10.1/100.0"/>
+      <hotspot distance="1.91877" id="Point03" pan="-173.18" description="" title="Go Cake" skinid="ht_node" tilt="-30.31" url="{node11}" target="175.6/-23.1/100.0"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" softedge="0" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" zoomout="0" blendcolor="0x000000" zoomafterinfov="90" zoomspeed="2" enabled="1" zoomfov="20" zoomin="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" rubberband="0" lockedkeyboardzoom="0" contextfullscreen="1" hideabout="0" speedwheel="1" lockedwheel="0" invertwheel="0" lockedkeyboard="0" contextprojections="0" sensitivity="8" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelingroll="0" levelingpitch="0" height="1520" leveltilesize="510" overlap="1" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520">
+      <level predecode="0" height="1520" width="1520" preload="0"/>
+      <level predecode="0" height="760" width="760" preload="0"/>
+      <level predecode="1" height="380" width="380" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="89.1" fovmode="0">
+      <start pan="176.32" fov="100" tilt="-21.69" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="270" pan="360" fov="120" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node6" heading="89.1" author="" altitude="2.80" tags="jpg" datetime="3/28/2021 12:15 PM" latitude="25.94006685" info="" source="" comment="" longitude="-80.28105096" description="" title="IMG_20210328_121507_00_114.insp" copyright="" customnodeid="" streetviewlink="https://www.google.com/maps/@25.9400669,-80.281051,3a,75y,272.78h/data=!3m4!1e1!3m2!1sAF1QipNUTXTKuuB0ZuAjNJO1q7n9vkYAoJueUmTw78UV!2e10"/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label textalpha="1" bordercolor="0x000000" wordwrap="1" border="1" borderradius="1" height="20" textcolor="0x000000" backgroundalpha="1" background="1" borderalpha="1" enabled="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot distance="4.70112" id="Point01" pan="-93.91" description="" title="Go Entrance" skinid="ht_node" tilt="-16.75" url="{node7}" target="-98.9/-15.1/100.0"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" softedge="0" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" zoomout="0" blendcolor="0x000000" zoomafterinfov="90" zoomspeed="2" enabled="1" zoomfov="20" zoomin="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" rubberband="0" lockedkeyboardzoom="0" contextfullscreen="1" hideabout="0" speedwheel="1" lockedwheel="0" invertwheel="0" lockedkeyboard="0" contextprojections="0" sensitivity="8" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node9">
+    <input levelingroll="0" levelingpitch="0" height="1520" leveltilesize="510" overlap="1" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520">
+      <level predecode="0" height="1520" width="1520" preload="0"/>
+      <level predecode="0" height="760" width="760" preload="0"/>
+      <level predecode="1" height="380" width="380" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="81.75" fovmode="0">
+      <start pan="170.26" fov="100" tilt="-29.31" projection="4"/>
+      <flyin pan="165.7" fov="100" tilt="-11.74" projection="4"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="270" pan="360" fov="120" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node9" heading="81.75" author="" altitude="2.80" tags="jpg" datetime="3/28/2021 12:20 PM" latitude="25.93997976" info="" source="" comment="" longitude="-80.28104694" description="" title="IMG_20210328_122035_00_117.insp" copyright="" customnodeid="" streetviewlink="https://www.google.com/maps/@25.9399798,-80.2810469,3a,75y,271.49h/data=!3m4!1e1!3m2!1sAF1QipOS9Ar0-BxKEQd1gUoODloEk2oksP0fOh4UxnEG!2e10"/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label textalpha="1" bordercolor="0x000000" wordwrap="1" border="1" borderradius="1" height="20" textcolor="0x000000" backgroundalpha="1" background="1" borderalpha="1" enabled="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot distance="3.1393" id="Point01" pan="-282.37" description="" title="IMG_20210328_121648_00_116.insp" skinid="ht_node" tilt="-12.03" url="{node8}" target="175.9/-15.5/100.0"/>
+      <hotspot distance="4.71631" id="Point02" pan="-43.72" description="" title="Go Exit" skinid="ht_node" tilt="1.39" url="{node1}" target="175.6/-27.8/100.0"/>
+      <hotspot distance="2.26409" id="Point04" pan="-222.69" description="" title="Go Cake" skinid="ht_node" tilt="-24.45" url="{node11}" target="174.4/-13.5/100.0"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" softedge="0" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" zoomout="0" blendcolor="0x000000" zoomafterinfov="90" zoomspeed="2" enabled="1" zoomfov="20" zoomin="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" rubberband="0" lockedkeyboardzoom="0" contextfullscreen="1" hideabout="0" speedwheel="1" lockedwheel="0" invertwheel="0" lockedkeyboard="0" contextprojections="0" sensitivity="8" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node11">
+    <input levelingroll="0" levelingpitch="0" height="1520" leveltilesize="510" overlap="1" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520">
+      <level predecode="0" height="1520" width="1520" preload="0"/>
+      <level predecode="0" height="760" width="760" preload="0"/>
+      <level predecode="1" height="380" width="380" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="89.04" fovmode="0">
+      <start pan="174.4" fov="100" tilt="-13.49" projection="4"/>
+      <flyin pan="176.46" fov="100" tilt="-16.59" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="270" pan="360" fov="120" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata nodeid="node11" heading="89.04" author="" altitude="2.30" tags="jpg" datetime="3/28/2021 12:26 PM" latitude="25.93999423" info="" source="" comment="" longitude="-80.28106287" description="" title="IMG_20210328_122645_00_119.insp" copyright="" customnodeid="" streetviewlink="https://www.google.com/maps/@25.9399942,-80.2810629,3a,75y,274.64h/data=!3m4!1e1!3m2!1sAF1QipOrDCSjkmZMIPz2OD6w9by8MCTgRFyE0hJD6vk2!2e10"/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label textalpha="1" bordercolor="0x000000" wordwrap="1" border="1" borderradius="1" height="20" textcolor="0x000000" backgroundalpha="1" background="1" borderalpha="1" enabled="1" width="180" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot distance="3.68233" id="Point01" pan="-322.1" description="" title="Go Entrance" skinid="ht_node" tilt="3.16" url="{node7}" target="-1.7/0.0/100.0"/>
+      <hotspot distance="2.26409" id="Point02" pan="-69.12" description="" title="Go West" skinid="ht_node" tilt="-7.02" url="{node9}" target="-44.1/-16.4/100.0"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" softedge="0" zoomafteroutfov="20" zoomoutpause="1" type="crossdissolve" zoomout="0" blendcolor="0x000000" zoomafterinfov="90" zoomspeed="2" enabled="1" zoomfov="20" zoomin="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control simulatemass="1" rubberband="0" lockedkeyboardzoom="0" contextfullscreen="1" hideabout="0" speedwheel="1" lockedwheel="0" invertwheel="0" lockedkeyboard="0" contextprojections="0" sensitivity="8" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1"/>
+  </panorama>
+  <masternode>
+    <userdata nodeid="master" heading="0" author="" tags="" datetime="" latitude="" info="" source="" comment="" longitude="" description="" title="" copyright="" customnodeid=""/>
+  </masternode>
+</tour>
